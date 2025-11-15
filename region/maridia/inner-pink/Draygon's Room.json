@@ -1078,6 +1078,16 @@
       ]
     },
     {
+      "link": [1, 2],
+      "name": "Suitless Double SpringBall Jump",
+      "requires": [
+        "canSuitlessMaridia",
+        "canTrickyJump",
+        "h_doubleSpringBallJumpWithHiJump"
+      ],
+      "flashSuitChecked": true
+    },
+    {
       "id": 21,
       "link": [1, 2],
       "name": "G-Mode Morph (Draygon Defeated)",
