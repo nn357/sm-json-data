@@ -1082,7 +1082,6 @@
       "name": "Suitless Double SpringBall Jump",
       "requires": [
         "canSuitlessMaridia",
-        "canTrickyJump",
         "h_doubleSpringBallJumpWithHiJump"
       ],
       "flashSuitChecked": true
